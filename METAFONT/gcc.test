@@ -1,0 +1,13 @@
+ftview -r 100 -m 'some text' 14 /usr/share/fonts/type1/gsfonts/c059013l.pfb
+
+ftview -r 100 -m 'some text' 14 /usr/share/fonts/truetype/freefont/FreeSerif.ttf
+
+ftview -r 100 -m 'some text' 14 /home/sungmin/METAFONT/metafont.mf
+
+
+
+ftview -r 100 -m 'Metafont is a description language used to define raster fonts. ' 14 /usr/share/fonts/truetype/freefont/FreeSerifItalic.ttf
+
+
+ftview -r 100 -m 'Metafont is a description language used to define raster fonts. ' 14 /home/sungmin/METAFONT/cmr7.mf
+

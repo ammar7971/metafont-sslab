@@ -1,0 +1,6 @@
+ftview -r 100 -m 'some text' 14 /usr/share/fonts/type1/gsfonts/c059013l.pfb
+
+ftview -r 100 -m 'FreeSerif' 14 /usr/share/fonts/truetype/freefont/FreeSerif.ttf
+
+ftview -r 100 -m 'some text' 14 /home/sungmin/METAFONT/metafont.mf
+
